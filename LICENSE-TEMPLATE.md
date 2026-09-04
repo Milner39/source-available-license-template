@@ -2,7 +2,7 @@
 
 <https://polyformproject.org/licenses/noncommercial/1.0.0>
 
-Required Notice: Copyright (c) <YEAR> Finn Milner
+Required Notice: Copyright (c) `<YEAR>` Finn Milner
 
 ## Acceptance
 
