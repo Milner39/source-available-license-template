@@ -1,105 +1,133 @@
-Finn Milner's Non-Commercial Software License
-Version 1.0
+# PolyForm Noncommercial License 1.0.0
 
-Copyright (c) <YEAR> Finn Milner
+<https://polyformproject.org/licenses/noncommercial/1.0.0>
 
-Permission is granted, free of charge, to any individual or organisation obtaining a copy of this software and associated documentation files (the "Software") to use, copy, modify, and distribute the Software, subject to the following conditions.
+Required Notice: Copyright (c) <YEAR> Finn Milner
 
-1. NON-COMMERCIAL USE
+## Acceptance
 
-The Software may be used free of charge only for non-commercial purposes.
+In order to get any license under these terms, you must agree
+to them as both strict obligations and conditions to all
+your licenses.
 
-Permitted non-commercial purposes include, but are not limited to:
+## Copyright License
 
-* personal projects;
-* hobby projects;
-* education and academic study;
-* research;
-* experimentation;
-* evaluation of the Software;
-* non-profit projects that are not operated for commercial advantage.
+The licensor grants you a copyright license for the
+software to do everything you might do with the software
+that would otherwise infringe the licensor's copyright
+in it for any permitted purpose.  However, you may
+only distribute the software according to [Distribution
+License](#distribution-license) and make changes or new works
+based on the software according to [Changes and New Works
+License](#changes-and-new-works-license).
 
-2. COMMERCIAL USE
+## Distribution License
 
-Commercial use of the Software is not permitted under this license.
+The licensor grants you an additional copyright license
+to distribute copies of the software.  Your license
+to distribute covers distributing the software with
+changes and new works permitted by [Changes and New Works
+License](#changes-and-new-works-license).
 
-"Commercial use" includes any use of the Software that is primarily intended for, contributes to, supports, or forms part of:
+## Notices
 
-* the generation of revenue or profit;
-* a paid product or service;
-* a commercial software product;
-* a subscription or Software-as-a-Service product;
-* paid consulting or professional services;
-* commercial internal business operations;
-* products or services provided to customers or clients;
-* work performed by or on behalf of a for-profit organisation.
+You must ensure that anyone who gets a copy of any part of
+the software from you also gets a copy of these terms or the
+URL for them above, as well as copies of any plain-text lines
+beginning with `Required Notice:` that the licensor provided
+with the software.  For example:
 
-A separate commercial license must be obtained from the copyright holder before any commercial use of the Software.
+> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
 
-The copyright holder is under no obligation to grant a commercial license and may refuse, revoke where permitted by the applicable commercial agreement, or negotiate commercial licensing terms at their sole discretion.
+## Changes and New Works License
 
-Commercial licenses may require payment, attribution, usage restrictions, or other conditions agreed separately in writing.
+The licensor grants you an additional copyright license to
+make changes and new works based on the software for any
+permitted purpose.
 
-3. ATTRIBUTION
+## Patent License
 
-Any copy or substantial portion of the Software that is distributed, published, or made available to another person must retain:
+The licensor grants you a patent license for the software that
+covers patent claims the licensor can license, or becomes able
+to license, that you would infringe by using the software.
 
-* this copyright notice;
-* this license; and
-* reasonable attribution to Finn Milner as the original author.
+## Noncommercial Purposes
 
-You may not represent the Software, or a substantial portion of it, as your own original work.
+Any noncommercial purpose is a permitted purpose.
 
-4. MODIFICATIONS
+## Personal Uses
 
-You may modify the Software for purposes permitted by this license.
+Personal use for research, experiment, and testing for
+the benefit of public knowledge, personal study, private
+entertainment, hobby projects, amateur pursuits, or religious
+observance, without any anticipated commercial application,
+is use for a permitted purpose.
 
-If you distribute a modified version of the Software, you must:
+## Noncommercial Organizations
 
-* clearly indicate that modifications have been made;
-* retain the original copyright notice and attribution; and
-* include a copy of this license.
+Use by any charitable organization, educational institution,
+public research organization, public safety or health
+organization, environmental protection organization,
+or government institution is use for a permitted purpose
+regardless of the source of funding or obligations resulting
+from the funding.
 
-This license does not require you to publish modifications that you use privately for permitted non-commercial purposes.
+## Fair Use
 
-5. REDISTRIBUTION
+You may have "fair use" rights for the software under the
+law. These terms do not limit them.
 
-You may redistribute the Software, in original or modified form, only where the redistribution itself is non-commercial and complies with this license.
+## No Other Rights
 
-You may not sell, sublicense, rent, lease, or otherwise commercially distribute the Software without a separate commercial license from the copyright holder.
+These terms do not allow you to sublicense or transfer any of
+your licenses to anyone else, or prevent the licensor from
+granting licenses to anyone else.  These terms do not imply
+any other licenses.
 
-6. NO IMPLIED COMMERCIAL LICENSE
+## Patent Defense
 
-Access to the Software through a public source-code repository, package registry, download, fork, clone, archive, or other publicly accessible location does not grant permission for commercial use.
+If you make any written claim that the software infringes or
+contributes to infringement of any patent, your patent license
+for the software granted under these terms ends immediately. If
+your company makes such a claim, your patent license ends
+immediately for work on behalf of your company.
 
-No commercial rights are granted except through an explicit separate written agreement with the copyright holder.
+## Violations
 
-7. OWNERSHIP
+The first time you are notified in writing that you have
+violated any of these terms, or done anything with the software
+not covered by your licenses, your licenses can nonetheless
+continue if you come into full compliance with these terms,
+and take practical steps to correct past violations, within
+32 days of receiving notice.  Otherwise, all your licenses
+end immediately.
 
-The Software is licensed, not sold.
+## No Liability
 
-The copyright holder retains all copyright and other intellectual property rights in the Software except for the limited permissions expressly granted by this license.
+***As far as the law allows, the software comes as is, without
+any warranty or condition, and the licensor will not be liable
+to you for any damages arising out of these terms or the use
+or nature of the software, under any kind of legal claim.***
 
-No trademark, branding, or endorsement rights are granted by this license.
+## Definitions
 
-8. TERMINATION
+The **licensor** is the individual or entity offering these
+terms, and the **software** is the software the licensor makes
+available under these terms.
 
-Your rights under this license terminate automatically if you violate any of its terms.
+**You** refers to the individual or entity agreeing to these
+terms.
 
-Upon termination, you must cease any use, copying, modification, or distribution of the Software that is not otherwise permitted by applicable law or by a separate written agreement with the copyright holder.
+**Your company** is any legal entity, sole proprietorship,
+or other kind of organization that you work for, plus all
+organizations that have control over, are under the control of,
+or are under common control with that organization.  **Control**
+means ownership of substantially all the assets of an entity,
+or the power to direct its management and policies by vote,
+contract, or otherwise.  Control can be direct or indirect.
 
-Termination does not affect any rights or remedies available to the copyright holder in relation to a violation occurring before termination.
+**Your licenses** are all the licenses granted to you for the
+software under these terms.
 
-9. SEPARATE COMMERCIAL LICENSING
-
-For commercial licensing enquiries, contact the copyright holder.
-
-A commercial license may be granted on different terms from this license, including terms permitting commercial use, proprietary distribution, integration into commercial products, or other uses prohibited by this license.
-
-The availability of commercial licensing does not create an obligation for the copyright holder to license the Software to any particular person or organisation.
-
-10. DISCLAIMER OF WARRANTY
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
-
-IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+**Use** means anything you do with the software requiring one
+of your licenses.
