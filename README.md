@@ -2,26 +2,34 @@
 
 This repository contains the reusable software license template I use for my public software projects.
 
-The license template is located at:
+The template is based on the **PolyForm Noncommercial License 1.0.0** and is located at:
 
-[`LICENSE-TEMPLATE.md`](./LICENSE-TEMPLATE.md)
+[`polyform-noncommercial-template.md`](./polyform-noncommercial-template.md)
 
 ## Important
 
-The contents of `LICENSE-TEMPLATE.md` are provided as a **template** for use in other repositories.
+The contents of `polyform-noncommercial-template.md` are provided as a template for use in other repositories.
 
 They do **not** represent the license governing this repository itself.
 
-When using the template in another project, it should normally be copied into that project's root directory as `LICENSE` and any placeholders, such as `<YEAR>`, should be replaced with the appropriate values.
+When using the template in another project:
 
-## Permission to Use the Template
+1. Copy `polyform-noncommercial-template.md` into the root of the project as `LICENSE`.
+2. Replace `<YEAR>` with the appropriate copyright year.
+3. Keep the official PolyForm Noncommercial License 1.0.0 terms unchanged.
 
-Permission is granted to copy, reproduce, modify, and adapt the text contained in `LICENSE-TEMPLATE.md` for use as a software license.
+## About the License
 
-This permission applies only to the license template text and does not grant any rights to other software, documentation, branding, or content that may be contained in this repository.
+The template uses the **PolyForm Noncommercial License 1.0.0**.
+
+It permits personal and other qualifying non-commercial uses while withholding commercial rights.
+
+Commercial use requires a separate license from the copyright holder.
+
+The PolyForm license text is maintained by the PolyForm Project. Use or modification of the PolyForm license text itself is subject to the terms published by the PolyForm Project.
 
 ## Disclaimer
 
-This license template is provided for general informational purposes and reflects the licensing terms I use for my own projects.
+This repository is provided for general informational purposes and documents the licensing approach I use for my own software projects.
 
-It is not legal advice. Anyone intending to rely on the template for commercially significant software should consider obtaining independent legal advice.
+It is not legal advice. Anyone intending to rely on this licensing model for commercially significant software should consider obtaining independent legal advice.
