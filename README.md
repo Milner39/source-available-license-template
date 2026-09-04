@@ -28,6 +28,26 @@ Commercial use requires a separate license from the copyright holder.
 
 The PolyForm license text is maintained by the PolyForm Project. Use or modification of the PolyForm license text itself is subject to the terms published by the PolyForm Project.
 
+## Commercial Licensing
+
+Projects using this license should include a **Commercial Licensing** section in their README to make it clear that the public license does not grant commercial rights and that separate commercial licensing may be available.
+
+The following section can be added to the README of a project using this template:
+
+```markdown
+## Commercial Licensing
+
+This project is source-available under the **PolyForm Noncommercial License 1.0.0**.
+
+Commercial use is not permitted under the public license.
+
+If you wish to use this software commercially, contact the copyright holder to discuss obtaining a separate commercial license.
+
+The availability and terms of any commercial license, including fees, attribution requirements, or other conditions, are determined separately by the copyright holder.
+```
+
+This section is informational and does not modify or form part of the PolyForm Noncommercial License itself.
+
 ## Disclaimer
 
 This repository is provided for general informational purposes and documents the licensing approach I use for my own software projects.
